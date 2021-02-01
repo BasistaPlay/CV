@@ -1,7 +1,7 @@
 # Mans CV
 Vārds,Uzvārds __Edvars Torsters-Makauskis__
 
-![Mana bilde](https://user-images.githubusercontent.com/78017246/106501857-49d90f00-64cc-11eb-87ce-a7eaafb25c9e.jpg =250x250)
+![Mana bilde](https://user-images.githubusercontent.com/78017246/106501857-49d90f00-64cc-11eb-87ce-a7eaafb25c9e.jpg width="250" height="250")
 ## Izglītība
 
 ### Pamat izglītība
