@@ -13,7 +13,7 @@ __Rīgas valsts Tehnikums__
 1.Kurss Programmēšanas tehniķis
  [Links](https://www.rvt.lv/)
 ## Sasniegumi
-
+*Nav nopietnu sasniegumu.*
 
 ## Hobiji
 
