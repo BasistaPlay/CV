@@ -16,7 +16,7 @@ __Rīgas valsts Tehnikums__
 *Nav nopietnu sasniegumu.*
 
 ## Hobiji
-*Sports
-*Dator spēles
+* Sports .
+* Dator spēles .
 
 ## Pieredze programmēšanā
