@@ -4,12 +4,14 @@ Vārds,Uzvārds __Edvars Torsters-Makauskis__
 ## Izglītība
 
 ### Pamat izglītība
-
+__Andreja Pumpura Rīgas 11.pamatskola__
+Mācijos no 1-9 klasei
+[Links](https://ap11ps.lv/)
 
 ### Pašreizēja izglītības iestāde
-
-
-
+__Rīgas valsts Tehnikums__
+1.Kurss Programmēšanas tehniķis
+ [Links](https://www.rvt.lv/)
 ## Sasniegumi
 
 
