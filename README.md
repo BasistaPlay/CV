@@ -1,5 +1,6 @@
 # Mans CV
 Vārds,Uzvārds __Edvars Torsters-Makauskis__
+<img src="https://user-images.githubusercontent.com/78017246/106501857-49d90f00-64cc-11eb-87ce-a7eaafb25c9e.jpg" width="100"
 ![Mana bilde](https://user-images.githubusercontent.com/78017246/106501857-49d90f00-64cc-11eb-87ce-a7eaafb25c9e.jpg)
 ## Izglītība
 
@@ -16,8 +17,8 @@ __Rīgas valsts Tehnikums__
 *Nav nopietnu sasniegumu.*
 
 ## Hobiji
-* Sports .
-* Dator spēles .
+* Sports.
+* Dator spēles.
 
 ## Pieredze programmēšanā
 * Programēšanas pamati python.
