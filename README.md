@@ -20,3 +20,5 @@ __Rīgas valsts Tehnikums__
 * Dator spēles .
 
 ## Pieredze programmēšanā
+* Programēšanas pamati python.
+* Scratch pamati.
