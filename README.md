@@ -21,8 +21,8 @@ __Rīgas valsts Tehnikums__
 *Nav nopietnu sasniegumu.*
 
 ## Hobiji
-* Sports. :runner:
-* Dator spēles. :computer:
+1.Sports. :runner:
+2.Dator spēles. :computer:
 
 ## Pieredze programmēšanā
 * Programēšanas pamati python.
