@@ -29,12 +29,14 @@ __Rīgas valsts Tehnikums__
 * Scratch pamati.
 ### python koda gabals.
 <img align="right" width="100" height="100" src="python.png">
+
 ```
 Divu skaitļu summa
 a = float(int(ievadiet a skaitli:))
 b = float(int(ievadiet b skaitli:))
 c = a + b
 print(c)
+
 ```
 
 
