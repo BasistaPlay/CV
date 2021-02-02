@@ -31,3 +31,4 @@ __Rīgas valsts Tehnikums__
 | Programēšana  |       8       |
 | Matemātika    |       7       |
 | Fizika        |       6       |
+*** kautkas ***
