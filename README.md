@@ -39,10 +39,9 @@ __Rīgas valsts Tehnikums__
 | Fizika        |       6       |
 
 ## Citāts
-```
 "Domas ir spēki: ko tu domā,tas tu esi"
 -Rainis
-```
+
 
 
 
