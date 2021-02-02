@@ -27,9 +27,14 @@ __Rīgas valsts Tehnikums__
 ## Pieredze programmēšanā
 * Programēšanas pamati python.
 * Scratch pamati.
-### python koda gabali.
-<img align="centre" width="300" height="250" src="https://user-images.githubusercontent.com/78017246/106586719-75520d00-6551-11eb-8844-460907b45b9c.png">
-
+### python koda gabals.
+```
+Divu skaitļu summa
+a = float(int(ievadiet a skaitli:))
+b = float(int(ievadiet b skaitli:))
+c = a + b
+print(c)
+```
 
 ## Skolas atzīmes
 | Priekšmets    | Atzīme        |
