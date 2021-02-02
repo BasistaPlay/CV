@@ -37,8 +37,8 @@ __Rīgas valsts Tehnikums__
 
 ## Citāts
 ```
-__Domas ir spēki: ko tu domā,tas tu esi__
-*Rainis*
+Domas ir spēki: ko tu domā,tas tu esi
+Rainis
 ```
 
 
