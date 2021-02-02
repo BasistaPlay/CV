@@ -28,7 +28,7 @@ __Rīgas valsts Tehnikums__
 * Programēšanas pamati python.
 * Scratch pamati.
 ### python koda gabali.
-<img align="centre" width="200" height="250" src="https://user-images.githubusercontent.com/78017246/106586719-75520d00-6551-11eb-8844-460907b45b9c.png">
+<img align="centre" width="300" height="250" src="https://user-images.githubusercontent.com/78017246/106586719-75520d00-6551-11eb-8844-460907b45b9c.png">
 
 
 ## Skolas atzīmes
