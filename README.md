@@ -10,7 +10,7 @@
 
 ### Pamat izglītība
 __Andreja Pumpura Rīgas 11.pamatskola__
-Mācijos no 1-9 klasei
+---Mācijos no 1-9 klasei
 [Links](https://ap11ps.lv/)
 
 ### Pašreizēja izglītības iestāde
