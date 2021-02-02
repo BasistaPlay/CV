@@ -1,3 +1,4 @@
+
 # Mans CV
 <img align="right" width="200" height="250" src="https://user-images.githubusercontent.com/78017246/106501857-49d90f00-64cc-11eb-87ce-a7eaafb25c9e.jpg">
 
@@ -33,4 +34,11 @@ __Rīgas valsts Tehnikums__
 | Programēšana  |       8       |
 | Matemātika    |       7       |
 | Fizika        |       6       |
+
+## Citāts
+```
+__Domas ir spēki: ko tu domā,tas tu esi__
+*Rainis*
+```
+
 
