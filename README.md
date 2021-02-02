@@ -35,7 +35,7 @@ b = float(int(ievadiet b skaitli:))
 c = a + b
 print(c)
 ```
-<![python](python.png) width="100" height="100">
+<img align="right" width="100" height="100" src="python.png">
 
 ## Skolas atzīmes
 | Priekšmets    | Atzīme        |
