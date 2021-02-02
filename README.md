@@ -24,3 +24,10 @@ __Rīgas valsts Tehnikums__
 ## Pieredze programmēšanā
 * Programēšanas pamati python.
 * Scratch pamati.
+
+## Skolas atzīmes
+| Priekšmets    | Atzīme        |
+| ------------- |:-------------:|
+| Programēšana  |       8       |
+| Matemātika    |       7       |
+| Fizika        |       6       |
