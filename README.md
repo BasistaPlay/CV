@@ -42,11 +42,14 @@ print(c)
 
 ## Skolas atzīmes
 | Priekšmets    | Atzīme        |
-| ------------- |:-------------:|  - [ ] (Labas atzīmes)
-| Programēšana  |       8       |  - [x] (Normālas atzīmes)
-| Matemātika    |       7       |  - [ ] (Sliktas atzīmes)
+| ------------- |:-------------:|
+| Programēšana  |       8       |
+| Matemātika    |       7       |
 | Fizika        |       6       |
 
+- [ ] (Labas atzīmes)
+- [x] (Normālas atzīmes)
+- [ ] (Sliktas atzīmes)
 
 ## Citāts
 ```
