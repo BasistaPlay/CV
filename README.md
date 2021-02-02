@@ -46,6 +46,9 @@ print(c)
 | Programēšana  |       8       |
 | Matemātika    |       7       |
 | Fizika        |       6       |
+- [ ] (Labas atzīmes)
+- [x] (Normālas atzīmes)
+- [ ] (Sliktas atzīmes)
 
 ## Citāts
 ```
