@@ -1,5 +1,6 @@
 # Mans CV
 Vārds,Uzvārds __Edvars Torsters-Makauskis__
+Vecums: 16.gadi
 <img align="right" width="200" height="250" src="https://user-images.githubusercontent.com/78017246/106501857-49d90f00-64cc-11eb-87ce-a7eaafb25c9e.jpg">
 ## Izglītība
 
