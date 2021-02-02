@@ -35,6 +35,7 @@ b = float(int(ievadiet b skaitli:))
 c = a + b
 print(c)
 ```
+![python](python.png)
 
 ## Skolas atzīmes
 | Priekšmets    | Atzīme        |
